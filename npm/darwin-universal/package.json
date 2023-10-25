@@ -1,0 +1,15 @@
+{
+  "name": "@meMeme/algorithms-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "algorithms.darwin-universal.node",
+  "files": [
+    "algorithms.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
