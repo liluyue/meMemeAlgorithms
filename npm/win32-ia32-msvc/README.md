@@ -1,3 +1,3 @@
-# `@meMeme/algorithms-win32-ia32-msvc`
+# `@mhys/algorithms-win32-ia32-msvc`
 
-This is the **i686-pc-windows-msvc** binary for `@meMeme/algorithms`
+This is the **i686-pc-windows-msvc** binary for `@mhys/algorithms`

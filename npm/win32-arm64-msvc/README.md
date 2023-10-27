@@ -1,3 +1,3 @@
-# `@meMeme/algorithms-win32-arm64-msvc`
+# `@mhys/algorithms-win32-arm64-msvc`
 
-This is the **aarch64-pc-windows-msvc** binary for `@meMeme/algorithms`
+This is the **aarch64-pc-windows-msvc** binary for `@mhys/algorithms`

@@ -1,3 +1,3 @@
-# `@meMeme/algorithms-linux-arm-gnueabihf`
+# `@mhys/algorithms-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `@meMeme/algorithms`
+This is the **armv7-unknown-linux-gnueabihf** binary for `@mhys/algorithms`

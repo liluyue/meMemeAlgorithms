@@ -1,3 +1,3 @@
-# `@meMeme/algorithms-linux-x64-gnu`
+# `@mhys/algorithms-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `@meMeme/algorithms`
+This is the **x86_64-unknown-linux-gnu** binary for `@mhys/algorithms`

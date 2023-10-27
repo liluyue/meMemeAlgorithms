@@ -1,3 +1,3 @@
-# `@meMeme/algorithms-darwin-x64`
+# `@mhys/algorithms-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@meMeme/algorithms`
+This is the **x86_64-apple-darwin** binary for `@mhys/algorithms`

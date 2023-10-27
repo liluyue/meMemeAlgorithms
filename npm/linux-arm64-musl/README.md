@@ -1,3 +1,3 @@
-# `@meMeme/algorithms-linux-arm64-musl`
+# `@mhys/algorithms-linux-arm64-musl`
 
-This is the **aarch64-unknown-linux-musl** binary for `@meMeme/algorithms`
+This is the **aarch64-unknown-linux-musl** binary for `@mhys/algorithms`

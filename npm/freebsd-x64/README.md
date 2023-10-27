@@ -1,3 +1,3 @@
-# `@meMeme/algorithms-freebsd-x64`
+# `@mhys/algorithms-freebsd-x64`
 
-This is the **x86_64-unknown-freebsd** binary for `@meMeme/algorithms`
+This is the **x86_64-unknown-freebsd** binary for `@mhys/algorithms`

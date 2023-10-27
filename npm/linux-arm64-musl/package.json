@@ -1,5 +1,5 @@
 {
-  "name": "@meMeme/algorithms-linux-arm64-musl",
+  "name": "@mhys/algorithms-linux-arm64-musl",
   "version": "0.0.0",
   "os": [
     "linux"

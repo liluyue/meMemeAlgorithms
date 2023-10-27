@@ -1,3 +1,3 @@
-# `@meMeme/algorithms-android-arm-eabi`
+# `@mhys/algorithms-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `@meMeme/algorithms`
+This is the **armv7-linux-androideabi** binary for `@mhys/algorithms`
