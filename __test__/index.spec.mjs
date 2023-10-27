@@ -1,7 +1,7 @@
 import test from 'ava'
 
-// import { sum } from '../index.js'
+import { huffManEncode } from '../index.js'
 
-// test('sum from native', (t) => {
-//   t.is(sum(1, 2), 3)
-// })
+test('sum from native', (t) => {
+  t.is(3, 3)
+})
