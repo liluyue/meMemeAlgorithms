@@ -37,7 +37,7 @@ switch (platform) {
           if (localFileExisted) {
             nativeBinding = require('./algorithms.android-arm64.node')
           } else {
-            nativeBinding = require('@meMeme/algorithms-android-arm64')
+            nativeBinding = require('@mhys/algorithms-android-arm64')
           }
         } catch (e) {
           loadError = e
@@ -49,7 +49,7 @@ switch (platform) {
           if (localFileExisted) {
             nativeBinding = require('./algorithms.android-arm-eabi.node')
           } else {
-            nativeBinding = require('@meMeme/algorithms-android-arm-eabi')
+            nativeBinding = require('@mhys/algorithms-android-arm-eabi')
           }
         } catch (e) {
           loadError = e
@@ -69,7 +69,7 @@ switch (platform) {
           if (localFileExisted) {
             nativeBinding = require('./algorithms.win32-x64-msvc.node')
           } else {
-            nativeBinding = require('@meMeme/algorithms-win32-x64-msvc')
+            nativeBinding = require('@mhys/algorithms-win32-x64-msvc')
           }
         } catch (e) {
           loadError = e
@@ -83,7 +83,7 @@ switch (platform) {
           if (localFileExisted) {
             nativeBinding = require('./algorithms.win32-ia32-msvc.node')
           } else {
-            nativeBinding = require('@meMeme/algorithms-win32-ia32-msvc')
+            nativeBinding = require('@mhys/algorithms-win32-ia32-msvc')
           }
         } catch (e) {
           loadError = e
@@ -97,7 +97,7 @@ switch (platform) {
           if (localFileExisted) {
             nativeBinding = require('./algorithms.win32-arm64-msvc.node')
           } else {
-            nativeBinding = require('@meMeme/algorithms-win32-arm64-msvc')
+            nativeBinding = require('@mhys/algorithms-win32-arm64-msvc')
           }
         } catch (e) {
           loadError = e
@@ -113,7 +113,7 @@ switch (platform) {
       if (localFileExisted) {
         nativeBinding = require('./algorithms.darwin-universal.node')
       } else {
-        nativeBinding = require('@meMeme/algorithms-darwin-universal')
+        nativeBinding = require('@mhys/algorithms-darwin-universal')
       }
       break
     } catch {}
@@ -124,7 +124,7 @@ switch (platform) {
           if (localFileExisted) {
             nativeBinding = require('./algorithms.darwin-x64.node')
           } else {
-            nativeBinding = require('@meMeme/algorithms-darwin-x64')
+            nativeBinding = require('@mhys/algorithms-darwin-x64')
           }
         } catch (e) {
           loadError = e
@@ -138,7 +138,7 @@ switch (platform) {
           if (localFileExisted) {
             nativeBinding = require('./algorithms.darwin-arm64.node')
           } else {
-            nativeBinding = require('@meMeme/algorithms-darwin-arm64')
+            nativeBinding = require('@mhys/algorithms-darwin-arm64')
           }
         } catch (e) {
           loadError = e
@@ -157,7 +157,7 @@ switch (platform) {
       if (localFileExisted) {
         nativeBinding = require('./algorithms.freebsd-x64.node')
       } else {
-        nativeBinding = require('@meMeme/algorithms-freebsd-x64')
+        nativeBinding = require('@mhys/algorithms-freebsd-x64')
       }
     } catch (e) {
       loadError = e
@@ -174,7 +174,7 @@ switch (platform) {
             if (localFileExisted) {
               nativeBinding = require('./algorithms.linux-x64-musl.node')
             } else {
-              nativeBinding = require('@meMeme/algorithms-linux-x64-musl')
+              nativeBinding = require('@mhys/algorithms-linux-x64-musl')
             }
           } catch (e) {
             loadError = e
@@ -187,7 +187,7 @@ switch (platform) {
             if (localFileExisted) {
               nativeBinding = require('./algorithms.linux-x64-gnu.node')
             } else {
-              nativeBinding = require('@meMeme/algorithms-linux-x64-gnu')
+              nativeBinding = require('@mhys/algorithms-linux-x64-gnu')
             }
           } catch (e) {
             loadError = e
@@ -203,7 +203,7 @@ switch (platform) {
             if (localFileExisted) {
               nativeBinding = require('./algorithms.linux-arm64-musl.node')
             } else {
-              nativeBinding = require('@meMeme/algorithms-linux-arm64-musl')
+              nativeBinding = require('@mhys/algorithms-linux-arm64-musl')
             }
           } catch (e) {
             loadError = e
@@ -216,7 +216,7 @@ switch (platform) {
             if (localFileExisted) {
               nativeBinding = require('./algorithms.linux-arm64-gnu.node')
             } else {
-              nativeBinding = require('@meMeme/algorithms-linux-arm64-gnu')
+              nativeBinding = require('@mhys/algorithms-linux-arm64-gnu')
             }
           } catch (e) {
             loadError = e
@@ -231,7 +231,7 @@ switch (platform) {
           if (localFileExisted) {
             nativeBinding = require('./algorithms.linux-arm-gnueabihf.node')
           } else {
-            nativeBinding = require('@meMeme/algorithms-linux-arm-gnueabihf')
+            nativeBinding = require('@mhys/algorithms-linux-arm-gnueabihf')
           }
         } catch (e) {
           loadError = e
