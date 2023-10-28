@@ -11,10 +11,12 @@
   "files": [
     "algorithms.linux-x64-gnu.node"
   ],
+  "description": "桥接rust到js的一个例子",
   "license": "MIT",
   "engines": {
     "node": ">= 10"
   },
+  "repository": "https://github.com/liluyue/meMemeAlgorithms",
   "libc": [
     "glibc"
   ]

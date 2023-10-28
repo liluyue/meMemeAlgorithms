@@ -39,5 +39,7 @@
     "test": "ava",
     "universal": "napi universal",
     "version": "napi version"
-  }
+  },
+  "repository": "https://github.com/liluyue/meMemeAlgorithms",
+  "description": "桥接rust到js的一个例子"
 }
